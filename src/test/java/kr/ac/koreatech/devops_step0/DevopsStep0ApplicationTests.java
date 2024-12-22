@@ -20,11 +20,11 @@ class DevopsStep0ApplicationTests {
 	@Test
 	void addTest1(){
 		int result = add(10, 20);
-		assertEquals(0, result);
+		assertEquals(30, result);
 	}
 	@Test
 	void addTest2(){
 		int result = add(10, 20);
-		assertEquals(10, result);
+		assertEquals(30, result);
 	}
 }
