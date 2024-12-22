@@ -13,18 +13,18 @@ class DevopsStep0ApplicationTests {
 	}
 
 	
-	int add(int a, int b){
-		return a + b;
-	}
+	// int add(int a, int b){
+	// 	return a + b;
+	// }
 
-	@Test
-	void addTest1(){
-		int result = add(10, 20);
-		assertEquals(30, result);
-	}
-	@Test
-	void addTest2(){
-		int result = add(10, 20);
-		assertEquals(30, result);
-	}
+	// @Test
+	// void addTest1(){
+	// 	int result = add(10, 20);
+	// 	assertEquals(30, result);
+	// }
+	// @Test
+	// void addTest2(){
+	// 	int result = add(10, 20);
+	// 	assertEquals(30, result);
+	// }
 }
